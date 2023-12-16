@@ -3,13 +3,12 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 El componente formativo Métricas de impacto en la gestión comercial digital, explora la creciente relevancia del #[i marketing] digital, una estrategia que ha integrado diversas disciplinas como el mercadeo, la tecnología, la psicología y la economía. Este enfoque multidisciplinario ha dado lugar al desarrollo de herramientas tecnológicas y #[i software]  estadístico, que permiten un seguimiento preciso de procesos clave. Se abordan especialmente las plataformas especializadas para realizar mediciones en redes sociales, evaluando así el impacto de la marca o el producto en el público. Este componente formativo busca proporcionar una comprensión integral de las métricas de impacto y su aplicación en la gestión comercial digital.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis se muestra que el uso de métricas y análisis de datos ha permitido a las empresas comprender mejor y progresar en su conexión con los clientes, a través del análisis de datos, los indicadores claves KPI, interacciones, reacciones y comentarios.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

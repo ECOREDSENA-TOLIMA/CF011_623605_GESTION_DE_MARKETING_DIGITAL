@@ -5,7 +5,14 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
+      h1 <i>Engagement</i>
+    
+    separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_2_1 2.1 Estrategias
+    separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_2_2 2.2 Técnicas e importancia
 
 </template>
 

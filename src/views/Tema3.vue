@@ -5,7 +5,11 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Titulo de primer nivel
+      h1 Interacción
+
+    separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_3_1 3.1 Tiempos
 
 </template>
 
