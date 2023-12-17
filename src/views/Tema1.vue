@@ -25,7 +25,7 @@
         p(data-aos="fade-left") KPI #[b #[i (Key Performance Indicator)]] lo que traducido al español significa #[b indicador clave de desempeño].
         p(data-aos="fade-left") El desempeño como en toda estrategia o proyecto no es más que la representación o esquematización de la información como resultado de una serie de acciones implementadas en un periodo determinado y con un objetivo definido, mediante un conjunto de indicadores KPI´s que representan las métricas de una estrategia.
         p(data-aos="fade-left") Por lo anterior, la implementación de estos en una estrategia empresarial requiere factores clave que se resuelven haciendo uso de los siguientes interrogantes:
-        .cajon.colo-primario.p-4(style="background-color: #FFFBE5")
+        .cajon.color-primario.p-4(style="background-color: #FFFBE5")
           li ¿Qué se quiere medir?
           li ¿Por qué se mide específicamente esa acción?
           li ¿Esa acción permite el seguimiento de alguno de nuestros objetivos con sus resultados?
@@ -219,8 +219,10 @@
     .row.justify-content-center.align-items-center 
       .col-lg-7.col-12.mb-3
         p.mb-2(data-aos="fade-left") La tasa de conversión en <i>marketing</i> digital es esencial para medir la eficacia del embudo de conversión, que representa el proceso por el cual un visitante se convierte en cliente después de interactuar con contenido digital. Calcular la tasa de conversión implica dividir el número de conversiones entre el número total de visitantes y multiplicar por 100 para obtener el porcentaje.
-        figure.mb-2(data-aos="fade-right")
-          img(src='@/assets/curso/temas/tema1/23.svg' alt='Imagen decorativa')
+        figure.mb-2.desktop(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema1/23.svg' alt='Se presenta la formula: tasa de conversión es igual a numero de conversiones dividido en numero total de visitantes y el resultado multiplicado por 100.')
+        figure.mb-2.movil(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema1/28.svg' alt='Se presenta la formula: tasa de conversión es igual a numero de conversiones dividido en numero total de visitantes y el resultado multiplicado por 100.')
         p.mb-2(data-aos="fade-left") Esta métrica proporciona una visión clara de la eficiencia de las estrategias de <i>marketing</i> en la transformación de visitantes en clientes, permitiendo realizar comparaciones a lo largo del tiempo y con otros referentes del sector <i>(benchmarking)</i>. La tasa de conversión es un indicador crucial para evaluar y ajustar las tácticas de <i>marketing</i> digital, asegurando un rendimiento óptimo en la generación de <i>leads</i>  y la conversión efectiva de usuarios en clientes.
       .col-lg-5.col-10.mb-3
         figure(data-aos="fade-right")
@@ -264,8 +266,6 @@
           br
           br
           | 
-      
-      
 </template>
 
 <script>
