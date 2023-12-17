@@ -214,7 +214,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 4.
           span #[i Panel de control red social]
-        figure.desktop
+        figure
           img(src='@/assets/curso/temas/tema6/12.svg', alt='En la figura 4 se muestra el panel de control de una red social donde se exponen las principales estadísticas de la página.')
     
     
@@ -227,7 +227,7 @@
             .col.mb-3.mb-sm-0
               h3.mb-1 100 + herramientas útiles para <i>community managers</i>
               p.text-small Como parte de su aprendizaje autónomo se invita a revisar en el material complementario el tema “100 + herramientas útiles para <i>community managers”</i> o aquellas personas encargadas de manejar las redes sociales en una empresa.
-            .col-sm-auto
+            //-.col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="http://biblioteca.udgvirtual.udg.mx/jspui/bitstream/123456789/3555/1/100_herramientas_community_managers.pdf" target="_blank")
                 span Enlace web
                 i.fas.fa-file-code
