@@ -10,8 +10,8 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Verdad o falso en métricas de impacto en la gestión comercial digital.
-        p.mb-4 #[b Objetivo:] Evaluar el conocimiento sobre las métricas de impacto en la gestión comercial digital y fortalecer la comprensión de los conceptos, técnicas y estrategias asociadas. 
+          h2 Verdad o falso en métricas de impacto en la gestión comercial digital
+        p.mb-4 #[b Objetivo:] evaluar el conocimiento sobre las métricas de impacto en la gestión comercial digital y fortalecer la comprensión de los conceptos, técnicas y estrategias asociadas. 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

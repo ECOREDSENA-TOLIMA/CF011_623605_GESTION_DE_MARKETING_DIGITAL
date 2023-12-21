@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/1.jpg', alt='Imagen decorativa')
       .col-lg-8.col-12.mb-3
-        p(data-aos="fade-left") El <i>"engagement"</i> o compromiso en el marketing de contenidos es esencial para establecer una conexión significativa con la audiencia. Este término refleja la medida en que el público se involucra y conecta emocionalmente con el contenido promocional. Este compromiso se manifiesta cuando los usuarios comparten enlaces, recomiendan productos o servicios a su comunidad digital y participan en interacciones significativas en redes sociales.
+        p(data-aos="fade-left") El <i>"engagement"</i> o compromiso en el <i>marketing</i> de contenidos es esencial para establecer una conexión significativa con la audiencia. Este término refleja la medida en que el público se involucra y conecta emocionalmente con el contenido promocional. Este compromiso se manifiesta cuando los usuarios comparten enlaces, recomiendan productos o servicios a su comunidad digital y participan en interacciones significativas en redes sociales.
         p(data-aos="fade-left") La construcción de un sólido <i>engagement</i> tiene diversos beneficios, tales como:
         .cajon.color-primario.p-4(style="background-color: #E3ECF7")
           li El aumento de la tasa de interacción en redes sociales en un corto período.
@@ -24,7 +24,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_2_1 2.1 Estrategias
     
-    p(data-aos="fade-left") Las estrategias diseñadas para incrementar el engagement juegan un papel crucial en la construcción de una conexión sólida entre la marca y su audiencia objetivo. Estas estrategias son fundamentales para fidelizar a los clientes y cultivar relaciones duraderas. A continuación, se invita a revisar detalladamente el contenido presentado para obtener una comprensión más profunda de cómo implementar estas estrategias con éxito y lograr una interacción significativa con la comunidad digital.
+    p(data-aos="fade-left") Las estrategias diseñadas para incrementar el <i>engagement</i> juegan un papel crucial en la construcción de una conexión sólida entre la marca y su audiencia objetivo. Estas estrategias son fundamentales para fidelizar a los clientes y cultivar relaciones duraderas. A continuación, se invita a revisar detalladamente el contenido presentado para obtener una comprensión más profunda de cómo implementar estas estrategias con éxito y lograr una interacción significativa con la comunidad digital.
 
     TabsB.color-acento-botones.mb-5
       .py-4.py-md-5(titulo="Parte 1" :icono="require('@/assets/curso/temas/tema2/2.svg')")
@@ -33,7 +33,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/3.jpg', alt='Imagen decorativa')
           .col-md-6.mb-4.mb-md-0
-            p María y Pablo se encuentran en la oficina trabajando para una empresa de publicidad y mercadeo requieren diseñar una estrategia de marketing para una empresa local que tiene 5 sedes en diferentes partes del país, por lo que se reúnen a mirar cuáles alternativas tienen para diseñarla.
+            p María y Pablo se encuentran en la oficina trabajando para una empresa de publicidad y mercadeo requieren diseñar una estrategia de <i>marketing</i> para una empresa local que tiene 5 sedes en diferentes partes del país, por lo que se reúnen a mirar cuáles alternativas tienen para diseñarla.
             p <b>Pablo:</b> hola, María ¿Cómo va todo?
             p <b>María:</b> pues algo inquieta, estoy pensando en cómo hacer la estrategia para la empresa que nos asignaron ayer, estuve leyendo sobre lo que fueron, lo que son y lo que quieren ser.
             p <b>Pablo:</b> sí eso es importante, yo también investigué un poco sobre ellos … y creo que podemos mirar algunas alternativas… ¿Qué te parece si hacemos una lluvia de ideas?
@@ -82,7 +82,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-9.col-12.mb-3
         p(data-aos="fade-left") La importancia del <i>engagement</i> es lograr establecer qué tan comprometido están los usuarios o el público objetivo con la marca o la comunidad a la que pertenecen, por lo anterior, se hace necesario conocer la tasa de <i>engagement</i> mediante el alcance y los seguidores utilizando técnicas matemáticas para su cálculo como se muestra a continuación. 
-        p(data-aos="fade-left") Para calcular la tasa de engagement, se pueden seguir varias técnicas, pero una fórmula común es la siguiente:
+        p(data-aos="fade-left") Para calcular la tasa de <i>engagement</i>, se pueden seguir varias técnicas, pero una fórmula común es la siguiente:
         figure.desktop
           img(src='@/assets/curso/temas/tema2/12.svg', alt='Se presenta la formula: tasa de engagement es igual a Interacciones dividido enalcance total y el resultado multiplicado por 100.')
         figure.movil

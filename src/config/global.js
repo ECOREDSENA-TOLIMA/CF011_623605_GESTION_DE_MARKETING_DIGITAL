@@ -318,7 +318,7 @@ export default {
     {
       termino: '<em>Hashtag</em>',
       significado:
-        'es una etiqueta formada por una palabra o un conjunto de palabras precedidas por el símbolo numeral (#) que transmite una idea, un nombre o un concepto que normalmente va asociado con un mensaje o texto. Su uso se ha extendido principalmente en redes sociales como X, <i>Instagram</i> o <i>Google Plus</i>.',
+        'es una etiqueta formada por una palabra o un conjunto de palabras precedidas por el símbolo numeral (#) que transmite una idea, un nombre o un concepto que normalmente va asociado con un mensaje o texto. Su uso se ha extendido principalmente en redes sociales como X, Instagram o Google Plus.',
     },
     {
       termino: 'Influenciador',
@@ -348,7 +348,7 @@ export default {
     {
       termino: '<em>Retargeting</em>',
       significado:
-        'es una nueva técnica de publicidad que consiste en mostrar al usuario productos afines, una especie de filtro personalizado de productos y servicios en los que se está más receptivo a recibir información. Este tipo de prácticas se hacen posibles si y solo si los usuarios admiten voluntariamente que aceptan cookies cuando navegan en determinado sitio.',
+        'es una nueva técnica de publicidad que consiste en mostrar al usuario productos afines, una especie de filtro personalizado de productos y servicios en los que se está más receptivo a recibir información. Este tipo de prácticas se hacen posibles si y solo si los usuarios admiten voluntariamente que aceptan <i>cookies</i> cuando navegan en determinado sitio.',
     },
     {
       termino: 'ROI',
@@ -371,7 +371,7 @@ export default {
         'técnica de <i>marketing</i> cuyo objetivo es conectar y vincular al usuario directamente con el contenido contado en forma de historia gráfica o audiovisual.',
     },
     {
-      termino: 'TT',
+      termino: '<i>TT</i>',
       significado:
         'son las siglas de <i>Trending Topic</i>; es una de las abreviaturas más famosas de X para asignar los temas más importantes e influyentes del momento. Se pueden ver los <i>trending topic</i> según el país o la ciudad a través de https://trends24.in/',
     },
@@ -388,7 +388,7 @@ export default {
     {
       termino: '<i>Youtuber</i>',
       significado:
-        'son las personas que crean y suben videos a <i>YouTube</i> y han convertido su canal en algo más que una afición. El <i>Youtuber</i> gana dinero por los anuncios de los videos o por mostrar productos patrocinados.',
+        'son las personas que crean y suben videos a YouTube y han convertido su canal en algo más que una afición. El <i>Youtuber</i> gana dinero por los anuncios de los videos o por mostrar productos patrocinados.',
     },
   ],
   referencias: [

@@ -53,7 +53,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_1_2 1.2 Tipos
     
-    p(data-aos="fade-left") #[b Definir o clasificar un indicador depende del objetivo proyectado que se quiere controlar]. Dentro del esquema del marketing digital se encuentran varios tipos de #[b KPI´s] con sus respectivas características, los cuales se usan a nivel empresarial y que están determinados conforme a la estructura orgánica de la empresa y a las metas proyectadas como se observa en la siguiente figura:
+    p(data-aos="fade-left") #[b Definir o clasificar un indicador depende del objetivo proyectado que se quiere controlar]. Dentro del esquema del <i>marketing</i> digital se encuentran varios tipos de #[b KPI´s] con sus respectivas características, los cuales se usan a nivel empresarial y que están determinados conforme a la estructura orgánica de la empresa y a las metas proyectadas como se observa en la siguiente figura:
 
     .row.justify-content-center
       .col-lg-10.col-12 
@@ -242,7 +242,7 @@
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/25.jpg' alt='Imagen decorativa')
       .col-lg-8.col-8.mb-3
-        p(data-aos="fade-left") El volumen de tráfico es una métrica clave que evalúa la cantidad de accesos que un contenido recibe en un sitio web, página o <i>blog</i> durante un periodo específico. Esta métrica es esencial para analizar el impacto de la estrategia de <i>marketing</i> digital, ya que permite medir tanto el tráfico orgánico, derivado de búsquedas naturales, como el tráfico obtenido a través de medios pagados, como campañas publicitarias. Un volumen de tráfico significativo indica un mayor alcance y visibilidad, lo que puede traducirse en una mayor exposición de la marca, generación de leads y posiblemente mayores conversiones. Al monitorear el volumen de tráfico, las empresas pueden evaluar la efectividad de sus esfuerzos de <i>marketing</i> digital y ajustar estrategias según sea necesario para optimizar el rendimiento y alcanzar los objetivos establecidos.
+        p(data-aos="fade-left") El volumen de tráfico es una métrica clave que evalúa la cantidad de accesos que un contenido recibe en un sitio <i>web</i>, página o <i>blog</i> durante un periodo específico. Esta métrica es esencial para analizar el impacto de la estrategia de <i>marketing</i> digital, ya que permite medir tanto el tráfico orgánico, derivado de búsquedas naturales, como el tráfico obtenido a través de medios pagados, como campañas publicitarias. Un volumen de tráfico significativo indica un mayor alcance y visibilidad, lo que puede traducirse en una mayor exposición de la marca, generación de <i>leads</i> y posiblemente mayores conversiones. Al monitorear el volumen de tráfico, las empresas pueden evaluar la efectividad de sus esfuerzos de <i>marketing</i> digital y ajustar estrategias según sea necesario para optimizar el rendimiento y alcanzar los objetivos establecidos.
     separador 
     .titulo-segundo.color-acento-contenido
       h2#t_1_7 1.7 Número de visitas

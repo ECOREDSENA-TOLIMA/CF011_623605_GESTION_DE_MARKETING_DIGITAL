@@ -13,9 +13,10 @@
           img(src='@/assets/curso/temas/tema3/1.svg', alt='Imagen decorativa')
       .col-lg-8.col-12.mb-3
         .bloque-texto-c.color-secundario.p-4(style="background-color: #A3BFE4")
-          i.fas.fa-quote-right
+          i.fas.fa-quote-left
           h3.mb-2 La interacción en el entorno digital es un componente crucial que permite la comunicación y participación entre individuos de manera sincrónica y asincrónica, aprovechando las diversas herramientas y canales disponibles
           span - Cabero y Gisbert, 2005; Hannum, 2001
+          i.fas.fa-quote-right
         p.mt-2(data-aos="fade-left") En el contexto digital, la interacción se manifiesta cuando los usuarios establecen contacto a través de distintos canales, generando así información sobre sus preferencias y comportamientos. Este proceso refleja cómo las emociones se expresan en el ciberespacio al consumir contenido de interés.
         p.mt-2(data-aos="fade-left") La interacción online puede definirse como el resultado de la influencia de contenido, como un "imán de <i>leads</i>" <i>(lead magnet)</i> en el ciberespacio. Su objetivo es abordar problemas específicos para un público determinado, incentivando a los usuarios a proporcionar información relevante, como datos de contacto o correos electrónicos, a cambio de obtener soluciones o beneficios específicos.
 
@@ -82,7 +83,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_3_1 3.1 Tiempos
     
-    p(data-aos="fade-left") En el contexto del marketing de contenidos, la gestión efectiva del tiempo en la interacción se convierte en un factor crítico para optimizar el valor del cliente a lo largo de su ciclo de vida. La dedicación a la creación de contenido relevante, la fomentación de la participación continua, la personalización según las fases del viaje del cliente y la construcción de relaciones a largo plazo son aspectos fundamentales. Adaptar estrategias en respuesta a la evolución del cliente y evaluar de manera constante el impacto de las interacciones a lo largo del tiempo son prácticas esenciales para asegurar la lealtad del cliente y el éxito a largo plazo en el mercado digital. A continuación, se ilustran los pasos que se deben tener en cuenta:
+    p(data-aos="fade-left") En el contexto del <i>marketing</i> de contenidos, la gestión efectiva del tiempo en la interacción se convierte en un factor crítico para optimizar el valor del cliente a lo largo de su ciclo de vida. La dedicación a la creación de contenido relevante, la fomentación de la participación continua, la personalización según las fases del viaje del cliente y la construcción de relaciones a largo plazo son aspectos fundamentales. Adaptar estrategias en respuesta a la evolución del cliente y evaluar de manera constante el impacto de las interacciones a lo largo del tiempo son prácticas esenciales para asegurar la lealtad del cliente y el éxito a largo plazo en el mercado digital. A continuación, se ilustran los pasos que se deben tener en cuenta:
 
     .row.justify-content-center.mt-5
       .col-lg-10.col-12

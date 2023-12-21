@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema6/1.svg', alt='Imagen decorativa')
       .col-lg-8.col-12.mb-3
         p(data-aos="fade-left") En el ámbito de las métricas y el análisis <i>web</i>, el número de seguidores desempeña un papel crucial al evaluar el impacto generado por el contenido difundido a través de los medios digitales. Por ejemplo, al llevar a cabo una campaña de promoción de un producto o servicio mediante plataformas digitales o redes sociales, se puede cuantificar el éxito observando si el número de seguidores ha aumentado o disminuido.
-        p(data-aos="fade-left") El término "seguidor" se refiere al resultado expresado numéricamente que permite cuantificar y validar el impacto de una estrategia de <i>marketing</i> digital en un público objetivo específico. Las redes sociales, como <i>Facebook</i>, <i>Instagram</i> y <i>Twitter</i>, son plataformas que facilitan la visualización inmediata de estos resultados, proporcionando una medida tangible de la efectividad de la estrategia digital implementada.
+        p(data-aos="fade-left") El término "seguidor" se refiere al resultado expresado numéricamente que permite cuantificar y validar el impacto de una estrategia de <i>marketing</i> digital en un público objetivo específico. Las redes sociales, como Facebook, Instagram y X, son plataformas que facilitan la visualización inmediata de estos resultados, proporcionando una medida tangible de la efectividad de la estrategia digital implementada.
 
     separador 
     .titulo-segundo.color-acento-contenido
@@ -114,7 +114,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_6_3 6.3 Medición
     
-    p(data-aos="fade-left") La medición del número de seguidores en redes sociales desempeña un papel fundamental en la formulación de estrategias efectivas de <i>marketing</i> digital. Al comparar la interacción y el engagement en diferentes plataformas, se obtiene una visión clara del impacto relativo de cada red social. Esta información no solo informa sobre la efectividad del contenido compartido, sino que también sirve como base para la mejora continua. Una práctica recomendada es llevar un seguimiento del número de seguidores en intervalos específicos de tiempo, lo que proporciona datos más detallados y facilita la identificación de tendencias y patrones. Este enfoque estratégico permite a las empresas ajustar y perfeccionar sus estrategias de <i>marketing</i> en función de la evolución de la audiencia y las preferencias del usuario, como se presenta en la siguiente tabla.
+    p(data-aos="fade-left") La medición del número de seguidores en redes sociales desempeña un papel fundamental en la formulación de estrategias efectivas de <i>marketing</i> digital. Al comparar la interacción y el <i>engagement</i> en diferentes plataformas, se obtiene una visión clara del impacto relativo de cada red social. Esta información no solo informa sobre la efectividad del contenido compartido, sino que también sirve como base para la mejora continua. Una práctica recomendada es llevar un seguimiento del número de seguidores en intervalos específicos de tiempo, lo que proporciona datos más detallados y facilita la identificación de tendencias y patrones. Este enfoque estratégico permite a las empresas ajustar y perfeccionar sus estrategias de <i>marketing</i> en función de la evolución de la audiencia y las preferencias del usuario, como se presenta en la siguiente tabla.
 
     .row.justify-content-center.alig-items-center.mt-5
       .col-lg-8.col-12.mb-3
@@ -128,7 +128,7 @@
                 th Fecha
                 th Instagram
                 th Facebook
-                th Twitter
+                th X
             tbody
               tr(style="background-color: #F6F6F6")
                 td 15-01-2021
@@ -206,9 +206,9 @@
       //-         td 0
       //-         td 0
 
-    p.mt-5(data-aos="fade-left") El ejemplo proporcionado en la tabla 2 destaca dos campañas promocionales realizadas en la cuenta de <i>Instagram</i> de una empresa de turismo o agencia de viajes. En este caso, la empresa ejecuta campañas quincenales para promover destinos turísticos. Los resultados finales de estas campañas muestran un aumento del 45.83 % en el número de nuevos seguidores durante un periodo de 30 días. Esta información revela el impacto positivo de las estrategias de promoción en el crecimiento de la audiencia en la red social. Es relevante señalar que las plataformas de redes sociales ofrecen esta métrica, el número de seguidores, en sus paneles de control, facilitando así su monitoreo en tiempo real y proporcionando datos valiosos para evaluar el éxito de las campañas y ajustar las estrategias según sea necesario.
+    p.mt-5(data-aos="fade-left") El ejemplo proporcionado en la tabla 2 destaca dos campañas promocionales realizadas en la cuenta de Instagram de una empresa de turismo o agencia de viajes. En este caso, la empresa ejecuta campañas quincenales para promover destinos turísticos. Los resultados finales de estas campañas muestran un aumento del 45.83 % en el número de nuevos seguidores durante un periodo de 30 días. Esta información revela el impacto positivo de las estrategias de promoción en el crecimiento de la audiencia en la red social. Es relevante señalar que las plataformas de redes sociales ofrecen esta métrica, el número de seguidores, en sus paneles de control, facilitando así su monitoreo en tiempo real y proporcionando datos valiosos para evaluar el éxito de las campañas y ajustar las estrategias según sea necesario.
 
-    p(data-aos="fade-left") A continuación, se presenta un ejemplo de la red social <i>Facebook</i>: 
+    p(data-aos="fade-left") A continuación, se presenta un ejemplo de la red social Facebook: 
     .row.justify-content-center.mt-5
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
