@@ -244,7 +244,7 @@ export default {
     {
       tema: 'Medición',
       referencia:
-        'Rosero, S.  y Núñez, R. (s.f.). 100 + herramientas útiles para community managers. Udgvirtual.',
+        'Rosero, S.  y Núñez, R. (s.f.). 100 + herramientas útiles para <i>community managers</i>. Udgvirtual.',
       tipo: 'PDF',
       link: 'http://biblioteca.udgvirtual.udg.mx/jspui/handle/123456789/3555',
     },
