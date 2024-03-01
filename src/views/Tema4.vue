@@ -14,7 +14,7 @@
       .col-lg-9.col-12.mb-3
         p(data-aos="fade-left") Las reacciones en las redes sociales representan una forma esencial de comunicación en la era digital. Los usuarios, especialmente en las plataformas de <i>social media</i>, emplean diversas expresiones gráficas para manifestar sus respuestas emocionales de manera concisa. Este fenómeno, conocido como ciberlenguaje, permite una interacción eficiente en las conversaciones <i>online</i>, optimizando el tiempo de comunicación en dispositivos móviles o laptops. Estas reacciones, que van más allá del texto, se han convertido en una parte integral de la dinámica <i>social</i> en línea, ofreciendo a los internautas una manera rápida y visual de expresar sus emociones frente a las publicaciones.
         .cajon.color-secundario.p-4.mb-3(style="background-color: #FFFBE5")
-          p Como parte de su aprendizaje autónomo se invita a revisar en el material complementario el tema “El ciberlenguaje juvenil universitario, análisis de los textos” de la página de Facebook ¨Confesiones¨, donde podrá encontrar los rasgos característicos en el uso del lenguaje, que implica casi la codificación del mismo.
+          p Como parte de su aprendizaje autónomo, se invita a revisar en el material complementario el tema “El ciberlenguaje juvenil universitario, análisis de los textos” de la página de Facebook ¨Confesiones¨, donde podrá encontrar los rasgos característicos en el uso del lenguaje, que implica casi la codificación del mismo.
     
     separador 
     .titulo-segundo.color-acento-contenido

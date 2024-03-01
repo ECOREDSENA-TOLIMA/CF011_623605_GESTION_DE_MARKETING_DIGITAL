@@ -53,7 +53,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_1_2 1.2 Tipos
     
-    p(data-aos="fade-left") #[b Definir o clasificar un indicador depende del objetivo proyectado que se quiere controlar]. Dentro del esquema del <i>marketing</i> digital se encuentran varios tipos de #[b KPI´s] con sus respectivas características, los cuales se usan a nivel empresarial y que están determinados conforme a la estructura orgánica de la empresa y a las metas proyectadas como se observa en la siguiente figura:
+    p(data-aos="fade-left") #[b Definir o clasificar un indicador depende del objetivo proyectado que se quiere controlar]. Dentro del esquema del <i>marketing</i> digital se encuentran varios tipos de #[b KPI´s] con sus respectivas características, los cuales se usan a nivel empresarial y que están determinados conforme a la estructura orgánica de la empresa y a las metas proyectadas, como se observa en la siguiente figura:
 
     .row.justify-content-center
       .col-lg-10.col-12 
@@ -82,7 +82,7 @@
         p Hace referencia a un tema en particular, se caracteriza por ser muy concreto permitiendo el seguimiento y control a los objetivos trazados.
       .tarjeta.color-acento-botones.p-3(x="82.5%" y="64.2%" numero="")
         .h5.mb-2 KPI relevante
-        p Hace referencia al análisis de información que verdaderamente interesa,  se caracteriza por identificar las necesidades de la empresa y definir los KPI´S que permitirán el cumplimiento de objetivos.
+        p Hace referencia al análisis de información que verdaderamente interesa,  se caracteriza por identificar las necesidades de la empresa y definir los KPI´s que permitirán el cumplimiento de objetivos.
       .tarjeta.color-acento-botones.p-3(x="56.6%" y="91%" numero="")
         .h5.mb-2 KPI medible
         p Hace referencia a los resultados obtenidos, se caracteriza por permitir un control más exhaustivo sobre los objetivos proyectados en tiempo real.

@@ -21,7 +21,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/2.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Los comentarios representan los textos expresados por los usuarios en un <i>blog</i> en relación con el contenido publicado en un periodo específico. En el contexto de un <i>blog</i>, que funciona como un sitio <i>web</i> interactivo, los comentarios permiten una continua participación del público en una comunidad digital. Este entorno, basado en la publicación constante de información sobre temas de interés específico, encarna los principios de la <i>Web</i> 2.0, facilitando a los usuarios compartir información, plantear preguntas directas al <i>blogger</i> o escritor, y contribuir a la construcción colaborativa del conocimiento. Esta dinámica refleja una relación fluida de transmisión de información digital y promueve un ambiente de intercambio y aprendizaje conjunto. Además del entorno del <i>blog</i>, los comentarios también pueden ser evaluados en diversos canales digitales, como <i>Facebook</i>, proporcionando una visión más amplia de la interacción y la recepción del contenido en el panorama digital.
+            p.mb-0 Los comentarios representan los textos expresados por los usuarios en un <i>blog</i> en relación con el contenido publicado en un periodo específico. En el contexto de un <i>blog</i>, que funciona como un sitio <i>web</i> interactivo, los comentarios permiten una continua participación del público en una comunidad digital. Este entorno, basado en la publicación constante de información sobre temas de interés específico, encarna los principios de la <i>Web</i> 2.0, facilitando a los usuarios compartir información, plantear preguntas directas al <i>blogger</i> o escritor, y contribuir a la construcción colaborativa del conocimiento. Esta dinámica refleja una relación fluida de transmisión de información digital y promueve un ambiente de intercambio y aprendizaje conjunto. Además del entorno del <i>blog</i>, los comentarios también pueden ser evaluados en diversos canales digitales, como Facebook, proporcionando una visión más amplia de la interacción y la recepción del contenido en el panorama digital.
               br
               br
               | 
@@ -102,7 +102,7 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema5/9.png' alt='')
-          .tarjetas-up_card.p-xl-6.p-lg-2.p-4(style="background-color: #DBE5F3")
+          .tarjetas-up_card.otros.p-xl-6.p-lg-2.p-4(style="background-color: #DBE5F3")
             .title.d-flex.align-items-center.mb-lg-2.mb-md-5.mb-3
               span
                 i.fas.fa-caret-up.fa-2x.me-3(style="color:#B40E0E")
@@ -113,7 +113,7 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema5/10.png' alt='')
-          .tarjetas-up_card.p-xl-6.p-lg-2.p-4(style="background-color: #DBE5F3")
+          .tarjetas-up_card.otros.p-xl-6.p-lg-2.p-4(style="background-color: #DBE5F3")
             .title.d-flex.align-items-center.mb-lg-2.mb-md-5.mb-3
               span
                 i.fas.fa-caret-up.fa-2x.me-3(style="color:#B40E0E")
@@ -124,12 +124,12 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema5/11.png' alt='')
-          .tarjetas-up_card.p-xl-6.p-lg-2.p-4(style="background-color: #DBE5F3")
+          .tarjetas-up_card.otros.p-xl-6.p-lg-2.p-4(style="background-color: #DBE5F3")
             .title.d-flex.align-items-center.mb-lg-2.mb-md-5.mb-3
               span
                 i.fas.fa-caret-up.fa-2x.me-3(style="color:#B40E0E")
                 i.fas.fa-caret-down.fa-2x.me-3(style="color:#B40E0E")
-              h5.mb-0 Open Texting Online
+              h5.mb-0 #[em Open Texting Online]
             p Se caracteriza por prestar sus servicios en varios países, por lo que es de fácil uso  no es necesario hacer el registro y permite el anonimato.
       
 </template>

@@ -18,7 +18,7 @@
           span - Cabero y Gisbert, 2005; Hannum, 2001
           i.fas.fa-quote-right
         p.mt-2(data-aos="fade-left") En el contexto digital, la interacción se manifiesta cuando los usuarios establecen contacto a través de distintos canales, generando así información sobre sus preferencias y comportamientos. Este proceso refleja cómo las emociones se expresan en el ciberespacio al consumir contenido de interés.
-        p.mt-2(data-aos="fade-left") La interacción online puede definirse como el resultado de la influencia de contenido, como un "imán de <i>leads</i>" <i>(lead magnet)</i> en el ciberespacio. Su objetivo es abordar problemas específicos para un público determinado, incentivando a los usuarios a proporcionar información relevante, como datos de contacto o correos electrónicos, a cambio de obtener soluciones o beneficios específicos.
+        p.mt-2(data-aos="fade-left") La interacción #[em online] puede definirse como el resultado de la influencia de contenido, como un "imán de <i>leads</i>" <i>(lead magnet)</i> en el ciberespacio. Su objetivo es abordar problemas específicos para un público determinado, incentivando a los usuarios a proporcionar información relevante, como datos de contacto o correos electrónicos, a cambio de obtener soluciones o beneficios específicos.
 
     p.mt-5(data-aos="fade-left") Uno de los ejemplos clásicos es identificar las diferencias y las similitudes entre la intersección presencial y virtual, que le permitirá clarificar el concepto, es el siguiente: 
 

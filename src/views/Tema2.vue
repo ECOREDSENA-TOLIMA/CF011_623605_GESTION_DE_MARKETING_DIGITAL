@@ -33,7 +33,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/3.jpg', alt='Imagen decorativa')
           .col-md-6.mb-4.mb-md-0
-            p María y Pablo se encuentran en la oficina trabajando para una empresa de publicidad y mercadeo requieren diseñar una estrategia de <i>marketing</i> para una empresa local que tiene 5 sedes en diferentes partes del país, por lo que se reúnen a mirar cuáles alternativas tienen para diseñarla.
+            p María y Pablo se encuentran en la oficina trabajando para una empresa de publicidad y mercadeo, requieren diseñar una estrategia de <i>marketing</i> para una empresa local que tiene 5 sedes en diferentes partes del país, por lo que se reúnen a mirar cuáles alternativas tienen para diseñarla.
             p <b>Pablo:</b> hola, María ¿Cómo va todo?
             p <b>María:</b> pues algo inquieta, estoy pensando en cómo hacer la estrategia para la empresa que nos asignaron ayer, estuve leyendo sobre lo que fueron, lo que son y lo que quieren ser.
             p <b>Pablo:</b> sí eso es importante, yo también investigué un poco sobre ellos … y creo que podemos mirar algunas alternativas… ¿Qué te parece si hacemos una lluvia de ideas?
@@ -46,7 +46,7 @@
               img(src='@/assets/curso/temas/tema2/8.jpg', alt='Imagen decorativa')
           .col-md-6.mb-4.mb-md-0
             p <b>María:</b> yo conozco la estrategia que habla sobre la creatividad, que hace referencia al uso de las redes sociales con estrategias innovadoras o llamativas que permitan incrementar la audiencia, para ello se deben proponer llamados a la acción utilizando dichas plataformas de comunicación, por ejemplo, promover la participación de la audiencia como jurado de un concurso.
-            p <b>Pablo:</b> humm, un concurso, suena bien, listo, ahora yo propongo lo siguiente hay una muy interesante que implica involucrar al usuario y hace referencia a compartir cierto contenido que los usuarios generan, por ejemplo, recetas de comidas especiales, cursos de aprendizaje o videos de experiencias de viajes.
+            p <b>Pablo:</b> humm, un concurso, suena bien, listo, ahora yo propongo lo siguiente, hay una muy interesante que implica involucrar al usuario y hace referencia a compartir cierto contenido que los usuarios generan, por ejemplo, recetas de comidas especiales, cursos de aprendizaje o videos de experiencias de viajes.
             p <b>María:</b> listo, fomentar la creatividad e involucrar a los usuarios.
       .py-4.py-md-5(titulo="Parte 3" :icono="require('@/assets/curso/temas/tema2/5.svg')")
         .row
@@ -54,8 +54,8 @@
             figure
               img(src='@/assets/curso/temas/tema2/9.jpg', alt='Imagen decorativa')
           .col-md-6.mb-4.mb-md-0
-            p <b>María:</b> uno de los factores que veo que están de moda hoy son los influencer y creo que podemos mirar cómo los involucramos, ya que se pueden hacer alianzas estratégicas con personas que mueven determinado tipo de audiencia que tiene que ver con el producto o servicio de la empresa, por ejemplo, un influencer cuya audiencia es gente joven para promover un concierto con el cantante de moda.
-            p <b>Pablo:</b> Sí, es verdad tenemos que revisar cuáles son los productos estrella o la marca de la empresa o el servicio que requieren dar a conocer o posicionar en la mente de los usuarios.
+            p <b>María:</b> uno de los factores que veo que están de moda hoy son los <em>influencer</em> y creo que podemos mirar cómo los involucramos, ya que se pueden hacer alianzas estratégicas con personas que mueven determinado tipo de audiencia que tiene que ver con el producto o servicio de la empresa, por ejemplo, un <em>influencer</em> cuya audiencia es gente joven para promover un concierto con el cantante de moda.
+            p <b>Pablo:</b> sí, es verdad, tenemos que revisar cuáles son los productos estrella o la marca de la empresa o el servicio que requieren dar a conocer o posicionar en la mente de los usuarios.
             p <b>María:</b> sí Pablo, sería una tarea por hacer.
       .py-4.py-md-5(titulo="Parte 4" :icono="require('@/assets/curso/temas/tema2/6.svg')")
         .row
@@ -72,7 +72,7 @@
               img(src='@/assets/curso/temas/tema2/11.jpg', alt='Imagen decorativa')
           .col-md-6.mb-4.mb-md-0
             p <b>Pablo:</b> yo conozco otra muy interesante y es la gamificación. El cual hace referencia a realizar acciones de beneficio para la audiencia utilizando la mecánica de juegos educativos y de aprendizaje para el mejoramiento de habilidades y competencias de los participantes y con el fin de que obtengan premios o recompensas. Por ejemplo, concursos de ortografía, <i>spelling bee</i>, etc.
-            p <b>María:</b> bueno ya tenemos 5 ideas interesantes y dos tareas por realizar, distribuyamos el trabajo, investigamos, proponemos alternativas y nos reunimos a ver que podemos seleccionar.
+            p <b>María:</b> bueno, ya tenemos 5 ideas interesantes y dos tareas por realizar, distribuyamos el trabajo, investigamos, proponemos alternativas y nos reunimos a ver que podemos seleccionar.
             p <b>Pablo:</b> listo, luego nos agendamos para definir cuál o cuáles le presentamos al cliente para que escoja.
         
     separador 
