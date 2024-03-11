@@ -96,7 +96,7 @@
           .tarjeta.color-acento-botones.p-3(x="21.6%" y="43.6%" numero="")
             p El <b><i>tripwire</i></b> es una oferta cuyo objetivo es convertir la mayor cantidad de nuevos <i>leads</i> que se acaban de suscribir en nuevos clientes de la empresa.
           .tarjeta.color-acento-botones.p-3(x="96.3%" y="74.5%" numero="")
-            p El <b><i>remarketing</i></b> consiste en crear campañas de anuncios personalizadas para aquellos usuarios que ya han visitado previamente la <i>Web</i> o <i>e-commerce</i>, con el objetivo de incrementar el ROI o retorno de inversión.
+            p El <b><i>remarketing</i></b> consiste en crear campañas de anuncios personalizadas para aquellos usuarios que ya han visitado previamente la web o <i>e-commerce</i>, con el objetivo de incrementar el ROI o retorno de inversión.
           .tarjeta.color-acento-botones.p-3(x="96.3%" y="93.2%" numero="")
             p Las <b><i>custom audiences</i></b> son audiencias creadas a partir de una acción específica que ha realizado un usuario.
     .row.justify-content-center

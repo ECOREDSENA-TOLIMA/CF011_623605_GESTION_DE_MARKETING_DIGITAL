@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Métricas de impacto en la gestión comercial digital',
     descripcionCurso:
-      'La gestión comercial digital se ve reflejada a través de los indicadores (KPI) implementados por la empresa para medir los resultados de la estrategia de <i>marketing</i> digital.  Este documento contempla los siguientes temas que permiten la medición de una gestión comercial digital: las métricas, el <i>engagement</i>, las interacciones, las reacciones, los comentarios, los seguidores y finalmente, los reportes.',
+      'La gestión comercial digital se ve reflejada a través de los indicadores (KPI) implementados por la empresa para medir los resultados de la estrategia de <em>marketing</em> digital.  Este documento contempla los siguientes temas que permiten la medición de una gestión comercial digital: las métricas, el <i>engagement</i>, las interacciones, las reacciones, los comentarios, los seguidores y finalmente, los reportes.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -261,9 +261,9 @@ export default {
         'calcula la evolución y la interacción de una publicación en cualquier tipo de formato, especialmente las redes sociales.',
     },
     {
-      termino: 'Analítica <em>web</em>',
+      termino: 'Analítica web',
       significado:
-        'es la forma de medir y analizar los datos de tráfico de un sitio <i>web</i>.',
+        'es la forma de medir y analizar los datos de tráfico de un sitio web.',
     },
     {
       termino: '<em>Blog post</em>',
@@ -283,7 +283,7 @@ export default {
     {
       termino: '<em>Cookies</em>',
       significado:
-        'son pequeños fragmentos de información que quedan registrados en el navegador cuando se visita un sitio <i>web</i> y que permiten a este sitio seguir el rastro de la actividad de los usuarios.',
+        'son pequeños fragmentos de información que quedan registrados en el navegador cuando se visita un sitio web y que permiten a este sitio seguir el rastro de la actividad de los usuarios.',
     },
     {
       termino: '<em>Crowdsourcing</em>',
@@ -298,7 +298,7 @@ export default {
     {
       termino: '<em>Engagement</em>',
       significado:
-        'es la sensación de pertenencia y unión emocional entre una marca y un usuario. Es el objetivo de toda marca o empresa en redes sociales basar la estrategia en <i>marketing</i> de contenidos y generar en cada una de las redes la mayor participación posible.',
+        'es la sensación de pertenencia y unión emocional entre una marca y un usuario. Es el objetivo de toda marca o empresa en redes sociales basar la estrategia en <em>marketing</em> de contenidos y generar en cada una de las redes la mayor participación posible.',
     },
     {
       termino: '<em>Fanpage</em>',
@@ -313,7 +313,7 @@ export default {
     {
       termino: 'Geolocalización',
       significado:
-        'término que hace referencia al posicionamiento y a la localización geográfica de un negocio, una persona o un lugar a través de coordenadas que permiten situar cualquier elemento en el mapa. Es una herramienta fundamental para aplicaciones a través del <i>mobile marketing</i>.',
+        'término que hace referencia al posicionamiento y a la localización geográfica de un negocio, una persona o un lugar a través de coordenadas que permiten situar cualquier elemento en el mapa. Es una herramienta fundamental para aplicaciones a través del <em>mobile marketing</em>.',
     },
     {
       termino: '<em>Hashtag</em>',
@@ -331,14 +331,14 @@ export default {
         'son las siglas de <i>Key Performance Indicator</i>; son indicadores y herramientas de medición de los cuales se obtiene información útil del nivel de rendimiento de una campaña o estrategia de <i>social media marketing</i>.',
     },
     {
-      termino: '<i>Marketing</i> de contenidos',
+      termino: '<em>Marketing</em> de contenidos',
       significado:
-        'son estrategias de <i>marketing</i> enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios, principalmente a través del <i>blog</i> y del <i>social media marketing</i>.',
+        'son estrategias de <em>marketing</em> enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios, principalmente a través del <em>blog</em> y del <em>social media marketing</em>.',
     },
     {
       termino: 'Metadatos',
       significado:
-        'es un código que se estructura al inicio de un sitio <i>web</i> para clasificar el tipo de información que describe a su vez otro elemento, del cual se puede obtener información detallada de sus características.',
+        'es un código que se estructura al inicio de un sitio web para clasificar el tipo de información que describe a su vez otro elemento, del cual se puede obtener información detallada de sus características.',
     },
     {
       termino: 'Reputación <em>online</em>',
@@ -348,12 +348,12 @@ export default {
     {
       termino: '<em>Retargeting</em>',
       significado:
-        'es una nueva técnica de publicidad que consiste en mostrar al usuario productos afines, una especie de filtro personalizado de productos y servicios en los que se está más receptivo a recibir información. Este tipo de prácticas se hacen posibles si y solo si los usuarios admiten voluntariamente que aceptan <i>cookies</i> cuando navegan en determinado sitio.',
+        'es una nueva técnica de publicidad que consiste en mostrar al usuario productos afines, una especie de filtro personalizado de productos y servicios en los que se está más receptivo a recibir información. Este tipo de prácticas se hacen posibles si y solo si los usuarios admiten voluntariamente que aceptan <em>cookies</em> cuando navegan en determinado sitio.',
     },
     {
       termino: 'ROI',
       significado:
-        'son las siglas en inglés de <i>Return On Investment</i>, que significa retorno de la inversión. Es un indicador que mide el beneficio frente al gasto de la inversión de un proyecto de <i>social media marketing</i>, en función de los objetivos y las metas logrados.',
+        'son las siglas en inglés de <i>Return On Investment</i>, que significa retorno de la inversión. Es un indicador que mide el beneficio frente al gasto de la inversión de un proyecto de <em>social media marketing</em>, en función de los objetivos y las metas logrados.',
     },
     {
       termino: '<em>Segmentar</em>',
@@ -363,12 +363,12 @@ export default {
     {
       termino: '<em>Status report</em>',
       significado:
-        'documento informativo del estado de los planes de acción en las diferentes estrategias de <i>social media</i>, que incluye datos cuantitativos y cualitativos provenientes del resultado de la analítica <i>web</i>.',
+        'documento informativo del estado de los planes de acción en las diferentes estrategias de <i>social media</i>, que incluye datos cuantitativos y cualitativos provenientes del resultado de la analítica web.',
     },
     {
       termino: '<em>Storytelling</em>',
       significado:
-        'técnica de <i>marketing</i> cuyo objetivo es conectar y vincular al usuario directamente con el contenido contado en forma de historia gráfica o audiovisual.',
+        'técnica de <em>marketing</em> cuyo objetivo es conectar y vincular al usuario directamente con el contenido contado en forma de historia gráfica o audiovisual.',
     },
     {
       termino: '<i>TT</i>',
@@ -378,7 +378,7 @@ export default {
     {
       termino: 'Viral',
       significado:
-        'un contenido viral, del tipo que sea, es aquel que se difunde y se comparte como la pólvora entre diferentes usuarios y a través de diferentes medios y redes sociales. El objetivo de cualquier campaña de <i>marketing</i> es “viralizar” sus contenidos.',
+        'un contenido viral, del tipo que sea, es aquel que se difunde y se comparte como la pólvora entre diferentes usuarios y a través de diferentes medios y redes sociales. El objetivo de cualquier campaña de <em>marketing</em> es “viralizar” sus contenidos.',
     },
     {
       termino: '<i>Webinars</i>',
@@ -431,7 +431,7 @@ export default {
     },
     {
       referencia:
-        'Kotler, P. y Armstrong, G. (2013). Fundamentos de marketing. Pearson.',
+        'Kotler, P. y Armstrong, G. (2013). Fundamentos de <em>marketing</em>. Pearson.',
       link:
         'https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf',
     },

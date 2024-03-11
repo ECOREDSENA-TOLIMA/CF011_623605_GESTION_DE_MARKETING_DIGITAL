@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/1.svg', alt='Imagen decorativa')
       .col-lg-10.col-12.mb-3
-        p(data-aos="fade-left") Las métricas, también conocidas como Indicadores Clave de Rendimiento (KPIs), desempeñan un papel crucial en la gestión comercial digital. Estas representaciones numéricas son el resultado del seguimiento, valoración y comparación de los objetivos establecidos en un período de tiempo específico. Al medir y analizar estas métricas, las empresas obtienen información valiosa sobre el rendimiento de sus estrategias de #[i marketing] digital, permitiéndoles tomar decisiones informadas y ajustar sus enfoques según sea necesario.
+        p(data-aos="fade-left") Las métricas, también conocidas como Indicadores Clave de Rendimiento (KPIs), desempeñan un papel crucial en la gestión comercial digital. Estas representaciones numéricas son el resultado del seguimiento, valoración y comparación de los objetivos establecidos en un período de tiempo específico. Al medir y analizar estas métricas, las empresas obtienen información valiosa sobre el rendimiento de sus estrategias de #[em marketing] digital, permitiéndoles tomar decisiones informadas y ajustar sus enfoques según sea necesario.
     
     separador 
     .titulo-segundo.color-acento-contenido
@@ -53,7 +53,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_1_2 1.2 Tipos
     
-    p(data-aos="fade-left") #[b Definir o clasificar un indicador depende del objetivo proyectado que se quiere controlar]. Dentro del esquema del <i>marketing</i> digital se encuentran varios tipos de #[b KPI´s] con sus respectivas características, los cuales se usan a nivel empresarial y que están determinados conforme a la estructura orgánica de la empresa y a las metas proyectadas, como se observa en la siguiente figura:
+    p(data-aos="fade-left") #[b Definir o clasificar un indicador depende del objetivo proyectado que se quiere controlar]. Dentro del esquema del #[em marketing] digital se encuentran varios tipos de #[b KPI´s] con sus respectivas características, los cuales se usan a nivel empresarial y que están determinados conforme a la estructura orgánica de la empresa y a las metas proyectadas, como se observa en la siguiente figura:
 
     .row.justify-content-center
       .col-lg-10.col-12 
@@ -242,13 +242,13 @@
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/25.jpg' alt='Imagen decorativa')
       .col-lg-8.col-8.mb-3
-        p(data-aos="fade-left") El volumen de tráfico es una métrica clave que evalúa la cantidad de accesos que un contenido recibe en un sitio <i>web</i>, página o <i>blog</i> durante un periodo específico. Esta métrica es esencial para analizar el impacto de la estrategia de <i>marketing</i> digital, ya que permite medir tanto el tráfico orgánico, derivado de búsquedas naturales, como el tráfico obtenido a través de medios pagados, como campañas publicitarias. Un volumen de tráfico significativo indica un mayor alcance y visibilidad, lo que puede traducirse en una mayor exposición de la marca, generación de <i>leads</i> y posiblemente mayores conversiones. Al monitorear el volumen de tráfico, las empresas pueden evaluar la efectividad de sus esfuerzos de <i>marketing</i> digital y ajustar estrategias según sea necesario para optimizar el rendimiento y alcanzar los objetivos establecidos.
+        p(data-aos="fade-left") El volumen de tráfico es una métrica clave que evalúa la cantidad de accesos que un contenido recibe en un sitio web, página o <i>blog</i> durante un periodo específico. Esta métrica es esencial para analizar el impacto de la estrategia de <i>marketing</i> digital, ya que permite medir tanto el tráfico orgánico, derivado de búsquedas naturales, como el tráfico obtenido a través de medios pagados, como campañas publicitarias. Un volumen de tráfico significativo indica un mayor alcance y visibilidad, lo que puede traducirse en una mayor exposición de la marca, generación de <i>leads</i> y posiblemente mayores conversiones. Al monitorear el volumen de tráfico, las empresas pueden evaluar la efectividad de sus esfuerzos de <i>marketing</i> digital y ajustar estrategias según sea necesario para optimizar el rendimiento y alcanzar los objetivos establecidos.
     separador 
     .titulo-segundo.color-acento-contenido
       h2#t_1_7 1.7 Número de visitas
     .row.justify-content-center 
       .col-lg-8.col-8.mb-3
-        p(data-aos="fade-left") El número de visitas a un sitio <i>web</i>, página o <i>blog</i> es una métrica fundamental para evaluar el alcance y la efectividad del contenido. A medida que este número aumenta, se incrementan las posibilidades de lograr un mayor alcance de manera orgánica. El contenido valioso y relevante tiene el potencial de ser compartido por los visitantes, amplificando así su impacto. Un ejemplo destacado de esta práctica es la inclusión de enlaces de suscripción a cursos virtuales gratuitos, donde el valor percibido por los visitantes puede motivar la difusión orgánica del contenido. Monitorear el número de visitas proporciona información clave sobre la resonancia del contenido y la atracción que ejerce sobre la audiencia, lo que permite a las empresas ajustar y optimizar sus estrategias para maximizar el impacto deseado.
+        p(data-aos="fade-left") El número de visitas a un sitio web, página o <i>blog</i> es una métrica fundamental para evaluar el alcance y la efectividad del contenido. A medida que este número aumenta, se incrementan las posibilidades de lograr un mayor alcance de manera orgánica. El contenido valioso y relevante tiene el potencial de ser compartido por los visitantes, amplificando así su impacto. Un ejemplo destacado de esta práctica es la inclusión de enlaces de suscripción a cursos virtuales gratuitos, donde el valor percibido por los visitantes puede motivar la difusión orgánica del contenido. Monitorear el número de visitas proporciona información clave sobre la resonancia del contenido y la atracción que ejerce sobre la audiencia, lo que permite a las empresas ajustar y optimizar sus estrategias para maximizar el impacto deseado.
       .col-lg-4.col-8.mb-3
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/26.svg' alt='Imagen decorativa')
@@ -262,7 +262,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/27.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La tasa de rebote es una métrica crucial que revela el comportamiento de los visitantes al interactuar con un sitio <i>web</i>, página o <i>blog</i>. Este indicador se calcula como el porcentaje de usuarios que abandonan el sitio sin realizar ninguna interacción significativa. La tasa de rebote ofrece <i>insights</i> valiosos sobre la efectividad y el atractivo del contenido, así como la capacidad del sitio para retener la atención de los visitantes. Un alto porcentaje de rebote puede indicar que el contenido no cumple con las expectativas de los usuarios o que la página carece de elementos persuasivos para fomentar la interacción. Por lo tanto, controlar y reducir la tasa de rebote es fundamental para optimizar la retención de usuarios y mejorar la experiencia general del visitante.
+        p.mb-0 La tasa de rebote es una métrica crucial que revela el comportamiento de los visitantes al interactuar con un sitio web, página o <i>blog</i>. Este indicador se calcula como el porcentaje de usuarios que abandonan el sitio sin realizar ninguna interacción significativa. La tasa de rebote ofrece <i>insights</i> valiosos sobre la efectividad y el atractivo del contenido, así como la capacidad del sitio para retener la atención de los visitantes. Un alto porcentaje de rebote puede indicar que el contenido no cumple con las expectativas de los usuarios o que la página carece de elementos persuasivos para fomentar la interacción. Por lo tanto, controlar y reducir la tasa de rebote es fundamental para optimizar la retención de usuarios y mejorar la experiencia general del visitante.
           br
           br
           | 

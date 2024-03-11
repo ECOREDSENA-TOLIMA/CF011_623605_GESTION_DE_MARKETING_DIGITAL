@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/temas/tema6/1.svg', alt='Imagen decorativa')
       .col-lg-8.col-12.mb-3
-        p(data-aos="fade-left") En el ámbito de las métricas y el análisis <i>web</i>, el número de seguidores desempeña un papel crucial al evaluar el impacto generado por el contenido difundido a través de los medios digitales. Por ejemplo, al llevar a cabo una campaña de promoción de un producto o servicio mediante plataformas digitales o redes sociales, se puede cuantificar el éxito observando si el número de seguidores ha aumentado o disminuido.
+        p(data-aos="fade-left") En el ámbito de las métricas y el análisis web, el número de seguidores desempeña un papel crucial al evaluar el impacto generado por el contenido difundido a través de los medios digitales. Por ejemplo, al llevar a cabo una campaña de promoción de un producto o servicio mediante plataformas digitales o redes sociales, se puede cuantificar el éxito observando si el número de seguidores ha aumentado o disminuido.
         p(data-aos="fade-left") El término "seguidor" se refiere al resultado expresado numéricamente que permite cuantificar y validar el impacto de una estrategia de <i>marketing</i> digital en un público objetivo específico. Las redes sociales, como Facebook, Instagram y X, son plataformas que facilitan la visualización inmediata de estos resultados, proporcionando una medida tangible de la efectividad de la estrategia digital implementada.
 
     separador 

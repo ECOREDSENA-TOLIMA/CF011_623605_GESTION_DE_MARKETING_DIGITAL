@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 El componente formativo Métricas de impacto en la gestión comercial digital, explora la creciente relevancia del #[i marketing] digital, una estrategia que ha integrado diversas disciplinas como el mercadeo, la tecnología, la psicología y la economía. Este enfoque multidisciplinario ha dado lugar al desarrollo de herramientas tecnológicas y #[i software]  estadístico, que permiten un seguimiento preciso de procesos clave. Se abordan especialmente las plataformas especializadas para realizar mediciones en redes sociales, evaluando así el impacto de la marca o el producto en el público. Este componente formativo busca proporcionar una comprensión integral de las métricas de impacto y su aplicación en la gestión comercial digital.
+    p.mb-5 El componente formativo Métricas de impacto en la gestión comercial digital, explora la creciente relevancia del #[em marketing] digital, una estrategia que ha integrado diversas disciplinas como el mercadeo, la tecnología, la psicología y la economía. Este enfoque multidisciplinario ha dado lugar al desarrollo de herramientas tecnológicas y #[i software]  estadístico, que permiten un seguimiento preciso de procesos clave. Se abordan especialmente las plataformas especializadas para realizar mediciones en redes sociales, evaluando así el impacto de la marca o el producto en el público. Este componente formativo busca proporcionar una comprensión integral de las métricas de impacto y su aplicación en la gestión comercial digital.
 
     .row.justify-content-center
       .col-lg-10.mb-5
