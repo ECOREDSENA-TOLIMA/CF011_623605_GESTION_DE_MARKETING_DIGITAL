@@ -148,7 +148,7 @@
       .col-lg-4.col-8.mb-3
         figure
           img(src='@/assets/curso/temas/tema6/10.jpg', alt='Imagen decorativa')
-    p.mt-5(data-aos="fade-left") De igual manera, para cada red social se debe hacer el seguimiento tomando como referencia la estrategia de <i>marketing</i> implementada (campaña de promoción de contenido) por periodos de tiempo como se muestra en la tabla 2.
+    p.mt-5(data-aos="fade-left") De igual manera, para cada red social se debe hacer el seguimiento tomando como referencia la estrategia de <i>marketing</i> implementada (campaña de promoción de contenido) por periodos de tiempo, como se muestra en la tabla 2.
 
     .row.justify-content-center.alig-items-center.mt-5
       .titulo-sexto.color-acento-contenido
