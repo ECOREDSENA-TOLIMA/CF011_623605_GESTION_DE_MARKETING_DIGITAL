@@ -53,7 +53,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_1_2 1.2 Tipos
     
-    p(data-aos="fade-left") #[b Definir o clasificar un indicador depende del objetivo proyectado que se quiere controlar]. Dentro del esquema del #[em marketing] digital se encuentran varios tipos de #[b KPI´s] con sus respectivas características, los cuales se usan a nivel empresarial y que están determinados conforme a la estructura orgánica de la empresa y a las metas proyectadas, como se observa en la siguiente figura:
+    p(data-aos="fade-left") #[b Definir o clasificar un indicador depende del objetivo proyectado que se quiere controlar]. Dentro del esquema del #[em marketing] digital se encuentran varios tipos de KPI con sus respectivas características, los cuales se usan a nivel empresarial y que están determinados conforme a la estructura orgánica de la empresa y a las metas proyectadas, como se observa en la siguiente figura:
 
     .row.justify-content-center
       .col-lg-10.col-12 
