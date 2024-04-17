@@ -82,7 +82,7 @@
         p Hace referencia a un tema en particular, se caracteriza por ser muy concreto permitiendo el seguimiento y control a los objetivos trazados.
       .tarjeta.color-acento-botones.p-3(x="82.5%" y="64.2%" numero="")
         .h5.mb-2 KPI relevante
-        p Hace referencia al análisis de información que verdaderamente interesa,  se caracteriza por identificar las necesidades de la empresa y definir los KPI´s que permitirán el cumplimiento de objetivos.
+        p Hace referencia al análisis de información que verdaderamente interesa, se caracteriza por identificar las necesidades de la empresa y definir los KPI que permitirán el cumplimiento de objetivos.
       .tarjeta.color-acento-botones.p-3(x="56.6%" y="91%" numero="")
         .h5.mb-2 KPI medible
         p Hace referencia a los resultados obtenidos, se caracteriza por permitir un control más exhaustivo sobre los objetivos proyectados en tiempo real.
